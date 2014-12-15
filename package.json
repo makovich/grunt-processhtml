@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "async": "^0.9.0",
-    "htmlprocessor": "~0.1.6"
+    "htmlprocessor": "https://github.com/makovich/node-htmlprocessor/tarball/master"
   },
   "devDependencies": {
     "grunt": "0.4.1",
